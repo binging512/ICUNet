@@ -1,0 +1,7089 @@
+{
+  "TCGA-2F-A9KP": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-2F-A9KT": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 83
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-2F-A9KW": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-4Z-AA7M": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 65
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA7N": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 65
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-4Z-AA7O": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 64
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA7Q": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 79
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA7R": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA7S": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA7W": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 55
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA7Y": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA81": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 80
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA82": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 59
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-4Z-AA83": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 52
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA84": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 61
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M1"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA87": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 72
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA89": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-5N-A9KM": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-BL-A0C8": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage I",
+      "ajcc_pathologic_t": "T1",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-BL-A13I": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 57
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-BL-A3JM": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 62
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-BL-A5ZZ": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 80
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-BT-A0S7": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-BT-A0YX": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-BT-A20J": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-BT-A20N": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 72
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-BT-A20O": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-BT-A20P": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 81
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-BT-A20Q": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-BT-A20R": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 79
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-BT-A20T": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 63
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-BT-A20U": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-BT-A20W": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 71
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-BT-A2LB": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-BT-A2LD": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 78
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-BT-A3PH": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-BT-A3PJ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-BT-A3PK": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 80
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-BT-A42C": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 64
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-BT-A42F": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 64
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-C4-A0EZ": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "female",
+      "ethnicity": "not reported",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M1"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-C4-A0F0": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-CF-A1HR": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 62
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-CF-A1HS": {
+    "demographic": {
+      "race": "asian",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Squamous cell carcinoma, NOS",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CF-A3MF": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 34
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CF-A3MG": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 48
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CF-A3MH": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-CF-A3MI": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 62
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CF-A47S": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 41
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-CF-A47T": {
+    "demographic": {
+      "race": "asian",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 58
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-CF-A47V": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 52
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-CF-A47W": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 42
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CF-A47X": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CF-A47Y": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 55
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-CF-A7I0": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 54
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-CF-A8HY": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 59
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CF-A9FF": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 52
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CF-A9FL": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 85
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-CU-A0YN": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-CU-A0YO": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 84
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CU-A0YR": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 83
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CU-A3KJ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-CU-A3YL": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-CU-A5W6": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CU-A72E": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A1A3": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-DK-A1A5": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 79
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-DK-A1AA": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 57
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-DK-A1AD": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "not reported"
+    }
+  },
+  "TCGA-DK-A1AE": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 84
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-DK-A1AG": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 65
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-DK-A2HX": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 80
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-DK-A2I6": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 81
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-DK-A3IK": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 87
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-DK-A3IL": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 79
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "not reported",
+      "Pharmaceutical Therapy": "not reported"
+    }
+  },
+  "TCGA-DK-A3IM": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-DK-A3IN": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 72
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A3IS": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 68
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A3IT": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 62
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A3IU": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 58
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A3IV": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A3WW": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 57
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-DK-A3WX": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-DK-A3WY": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A3X1": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 78
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-DK-A3X2": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 85
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-DK-A6AV": {
+    "demographic": {
+      "race": "asian",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 82
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-DK-A6AW": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-DK-A6B0": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 61
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A6B1": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-DK-A6B2": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A6B5": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 45
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-DK-A6B6": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 57
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-E5-A2PC": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 61
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-E5-A4U1": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 72
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-E7-A3X6": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-E7-A3Y1": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 57
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-E7-A4IJ": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 56
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-E7-A519": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 72
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-E7-A541": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-E7-A5KE": {
+    "demographic": {
+      "race": "asian",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 78
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-E7-A5KF": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-E7-A677": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 81
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-E7-A6MD": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "not reported",
+      "Pharmaceutical Therapy": "not reported"
+    }
+  },
+  "TCGA-E7-A6ME": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-E7-A6MF": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 37
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-E7-A7DV": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 44
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4",
+      "ajcc_pathologic_n": "N3",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-E7-A7XN": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-E7-A85H": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 64
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-E7-A8O7": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 52
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-E7-A97P": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-E7-A97Q": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N3",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A3B3": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 74
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-FD-A3B4": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 55
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A3B5": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 86
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A3B6": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-FD-A3B8": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "hispanic or latino",
+      "age": 56
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A3N5": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-FD-A3N6": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 43
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A3SJ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 59
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A3SM": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M1"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A3SO": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 68
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A3SP": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A3SQ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 62
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A3SS": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4",
+      "ajcc_pathologic_n": "N3",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A43N": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-FD-A43P": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 74
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A43U": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A43Y": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 65
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A5BR": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 57
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A5BS": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 68
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A5BT": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 84
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A5BU": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A5BV": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 47
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-FD-A5BX": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 82
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-FD-A5BY": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 63
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-FD-A5BZ": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 77
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A5C0": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 61
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A5C1": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 61
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A62N": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "not reported",
+      "Pharmaceutical Therapy": "not reported"
+    }
+  },
+  "TCGA-FD-A62O": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 74
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A62P": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A62S": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A6TA": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 58
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A6TB": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 82
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A6TC": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 79
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A6TE": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 54
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-FD-A6TF": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 80
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M1"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A6TH": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 63
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-FD-A6TI": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A6TK": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-FJ-A3Z7": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FJ-A3Z9": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 72
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "not reported",
+      "ajcc_pathologic_t": "TX",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FJ-A3ZF": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FJ-A871": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 49
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FT-A3EE": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 80
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-FT-A61P": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-G2-A2EF": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 50
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-G2-A2EJ": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 56
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-G2-A2EL": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 77
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-G2-A2EO": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-G2-A2ES": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 85
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-G2-A3IB": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-G2-A3IE": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 51
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-G2-AA3B": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-G2-AA3C": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-G2-AA3D": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-G2-AA3F": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 77
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-GC-A3I6": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 45
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GC-A3OO": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 79
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-GC-A3RB": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 54
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GC-A3RC": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 59
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-GC-A3RD": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 83
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-GC-A3WC": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 80
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GC-A6I1": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 90
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GC-A6I3": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 90
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GD-A2C5": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 53
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-GD-A3OP": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 84
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-GD-A3OS": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 54
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GD-A6C6": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 64
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-GU-A42P": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 72
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-GU-A42Q": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GU-A42R": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 68
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GU-A762": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 87
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-GU-A763": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 72
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GU-A764": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GU-A766": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 62
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GU-A767": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 81
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GU-AATO": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-GU-AATP": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 74
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GU-AATQ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 68
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GV-A3JW": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 74
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-GV-A3JX": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 59
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-GV-A3JZ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 55
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N3",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-GV-A3QF": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 79
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-GV-A3QH": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-GV-A40E": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-GV-A40G": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 77
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-GV-A6ZA": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 54
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-H4-A2HO": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 53
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-HQ-A2OE": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "not reported",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-HQ-A2OF": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "female",
+      "ethnicity": "not reported",
+      "age": 52
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary adenocarcinoma, NOS",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-HQ-A5ND": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 78
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-HQ-A5NE": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 57
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-K4-A3WS": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-K4-A3WU": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 87
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-K4-A3WV": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "hispanic or latino",
+      "age": 77
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-K4-A4AB": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-K4-A54R": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 59
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-K4-A5RH": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-K4-A5RI": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-K4-A6FZ": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-K4-A83P": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 77
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-K4-AAQO": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 56
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-LC-A66R": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 78
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-LT-A5Z6": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 56
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-LT-A8JT": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-PQ-A6FN": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 78
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-S5-AA26": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 46
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-SY-A9G0": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 82
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-SY-A9G5": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-UY-A78K": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-UY-A78L": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 62
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-UY-A78M": {
+    "demographic": {
+      "race": "asian",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 81
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "not reported",
+      "Pharmaceutical Therapy": "not reported"
+    }
+  },
+  "TCGA-UY-A78N": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 80
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-UY-A78P": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 78
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-UY-A8OB": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "hispanic or latino",
+      "age": 63
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-UY-A8OC": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 90
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-UY-A9PB": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 49
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-UY-A9PD": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 80
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-UY-A9PE": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 86
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "not reported"
+    }
+  },
+  "TCGA-UY-A9PF": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 77
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "not reported"
+    }
+  },
+  "TCGA-UY-A9PH": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-A8HB": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "female",
+      "ethnicity": "hispanic or latino",
+      "age": 50
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-A8HC": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 79
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-A8HD": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 77
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-A8HE": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 47
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-A8HF": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 80
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-A8HG": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-A8HH": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 61
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9SH": {
+    "demographic": {
+      "race": "asian",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 65
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-XF-A9SI": {
+    "demographic": {
+      "race": "asian",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9SJ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 83
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9SK": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 65
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9SM": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9SP": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 59
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9ST": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 68
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9SU": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 74
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-XF-A9SV": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 82
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M1"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-XF-A9SX": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 63
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-XF-A9SY": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9SZ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 79
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-XF-A9T0": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 68
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9T2": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 54
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9T3": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-XF-A9T5": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 78
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-XF-A9T6": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 88
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "not reported",
+      "Pharmaceutical Therapy": "not reported"
+    }
+  },
+  "TCGA-XF-A9T8": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 64
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-XF-AAMJ": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-XF-AAMQ": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 59
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAMR": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 48
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-XF-AAMW": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 79
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "not reported"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAMX": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 87
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAMY": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 78
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-XF-AAN0": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 68
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-XF-AAN2": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAN5": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 61
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAN7": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAN8": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 74
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-YC-A89H": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 78
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "not reported",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-YC-A9TC": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 71
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "not reported",
+      "ajcc_pathologic_m": "M1"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-YF-AA3L": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "female",
+      "ethnicity": "hispanic or latino",
+      "age": 47
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-YF-AA3M": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "male",
+      "ethnicity": "hispanic or latino",
+      "age": 57
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9R0": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 82
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9R1": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 81
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9R2": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9R3": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 53
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9R5": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 59
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9RE": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 78
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "not reported",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9RF": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 74
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T1",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9RL": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 61
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "not reported",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-ZF-A9RM": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T0",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9RN": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-AA4N": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 74
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Carcinoma, NOS",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "not reported",
+      "ajcc_pathologic_m": "not reported"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-AA4R": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-ZF-AA4T": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 65
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-ZF-AA4U": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-AA4V": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-AA4W": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 56
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-ZF-AA4X": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 56
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-ZF-AA51": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-AA52": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-ZF-AA53": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-AA54": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 71
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "not reported",
+      "Pharmaceutical Therapy": "not reported"
+    }
+  },
+  "TCGA-ZF-AA58": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 61
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-AA5H": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-ZF-AA5N": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 62
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M1"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-AA5P": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 65
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-2F-A9KO": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 63
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-2F-A9KQ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-2F-A9KR": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "female",
+      "ethnicity": "not reported",
+      "age": 59
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA80": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-4Z-AA86": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-5N-A9KI": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-BL-A13J": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 65
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-BT-A2LA": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 54
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-BT-A42E": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 74
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-C4-A0F6": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "female",
+      "ethnicity": "not reported",
+      "age": 82
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "not reported",
+      "Pharmaceutical Therapy": "not reported"
+    }
+  },
+  "TCGA-CF-A27C": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 52
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CF-A5U8": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 59
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-CF-A5UA": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-CF-A8HX": {
+    "demographic": {
+      "race": "asian",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 55
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-CF-A9FM": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 50
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage I",
+      "ajcc_pathologic_t": "T1",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-DK-A1A7": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 67
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A1AB": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 74
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-DK-A1AC": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not reported",
+      "age": 72
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A1AF": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 84
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-DK-A2I1": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-DK-A2I2": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 63
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N3",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A2I4": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 79
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-DK-A3IQ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 74
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-E5-A4TZ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 64
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-E7-A4XJ": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-E7-A678": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 55
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-E7-A7DU": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "not reported"
+    }
+  },
+  "TCGA-E7-A7PW": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 63
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A3B7": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A3NA": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A3SL": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 60
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M1"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A3SN": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "hispanic or latino",
+      "age": 79
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A3SR": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 68
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-FD-A43X": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 84
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A6TD": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 77
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FD-A6TG": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 73
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-FJ-A3ZE": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 65
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N3",
+      "ajcc_pathologic_m": "M1"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-G2-A2EK": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 57
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-G2-A3VY": {
+    "demographic": {
+      "race": "asian",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "not reported",
+      "ajcc_pathologic_m": "not reported"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-GC-A3BM": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-GC-A3YS": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 61
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-GC-A4ZW": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 71
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-GD-A3OQ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 48
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "not reported",
+      "Radiation Therapy": "not reported"
+    }
+  },
+  "TCGA-GV-A3JV": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 66
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-GV-A3QI": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 47
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-GV-A3QK": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 56
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-H4-A2HQ": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 64
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M1"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-K4-A4AC": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 83
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-K4-A5RJ": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "not reported",
+      "Pharmaceutical Therapy": "not reported"
+    }
+  },
+  "TCGA-K4-A6MB": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 64
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-MV-A51V": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-PQ-A6FI": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 70
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-S5-A6DX": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 83
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-UY-A78O": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-UY-A8OD": {
+    "demographic": {
+      "race": "black or african american",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 68
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-UY-A9PA": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 48
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-A8HI": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 57
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9SL": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 69
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9SW": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 85
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-A9T4": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 48
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAME": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 64
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "yes"
+    }
+  },
+  "TCGA-XF-AAMG": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "hispanic or latino",
+      "age": 49
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAMH": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 80
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N1",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAML": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAMT": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAMZ": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 81
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAN1": {
+    "demographic": {
+      "race": "not reported",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T4a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAN3": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "yes",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-XF-AAN4": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 77
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-YC-A8S6": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 71
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Papillary transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9R4": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 83
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9R7": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 76
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage II",
+      "ajcc_pathologic_t": "T2",
+      "ajcc_pathologic_n": "NX",
+      "ajcc_pathologic_m": "M0"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9R9": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 58
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3b",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "yes",
+      "Pharmaceutical Therapy": "yes"
+    }
+  },
+  "TCGA-ZF-A9RC": {
+    "demographic": {
+      "race": "white",
+      "gender": "male",
+      "ethnicity": "not hispanic or latino",
+      "age": 77
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage III",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N0",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Pharmaceutical Therapy": "no",
+      "Radiation Therapy": "no"
+    }
+  },
+  "TCGA-ZF-A9RD": {
+    "demographic": {
+      "race": "white",
+      "gender": "female",
+      "ethnicity": "not hispanic or latino",
+      "age": 75
+    },
+    "diagnosis": {
+      "primary_diagnosis": "Transitional cell carcinoma",
+      "ajcc_pathologic_stage": "Stage IV",
+      "ajcc_pathologic_t": "T3a",
+      "ajcc_pathologic_n": "N2",
+      "ajcc_pathologic_m": "MX"
+    },
+    "treatments": {
+      "Radiation Therapy": "no",
+      "Pharmaceutical Therapy": "no"
+    }
+  }
+}
